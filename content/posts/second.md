@@ -1,5 +1,5 @@
 +++
-title = "再见，世界"
+title = "2"
 date = 2026-11-22T09:00:00+08:00
 draft = false
 tags = ["随笔"]
